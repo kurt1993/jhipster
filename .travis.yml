@@ -1,0 +1,4 @@
+language: java
+install:
+  - bundle install --path vendor/bundle
+  - npm install
